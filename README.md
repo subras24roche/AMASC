@@ -14,12 +14,12 @@ AMASC (Automated Marker Analysis for Single-Cell RNA-seq) is a workflow for iden
 
 # Usage
 
-1. Prepare CITE-Seq data sets in the CSV format as `<MY_DATASET>_rna.csv` and `<MY_DATASET>_pe.csv`
+1. Prepare preprocessed (library-size-adjusted, log1p-transformed) CITE-Seq data sets in the CSV format as `<MY_DATASET>_rna.csv` and `<MY_DATASET>_pe.csv`
 2. Modify the paths in `AMASC.R`
 3. Run `AMASC.R`
 4. The selected features will be in file `features_<TIME>.txt`
 
-Please note that the process is stochastic. 
+Please note that the process is stochastic and the parameters may require adjustments by data set.
 
 # Contributors
 
