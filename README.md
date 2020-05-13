@@ -5,17 +5,11 @@ AMASC (automated marker analysis for single-cell RNA-seq) is a workflow for iden
 # Prerequisites
 
 * R >= 3.6
-
 * Python > 3.7
-
 * XGBoost (Python)
-
 * scikit-learn
-
 * numpy
-
 * pandas
-
 * matplotlib
 
 # Usage
@@ -26,3 +20,7 @@ AMASC (automated marker analysis for single-cell RNA-seq) is a workflow for iden
 4. The selected features will be in file `features_time.txt`
 
 Please note that the process is stochastic. 
+
+# Contributors
+
+AMASC was developed by Tai-Hsien Ou Yang, Wei-Yi Cheng, and James Cai
