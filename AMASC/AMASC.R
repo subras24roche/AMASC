@@ -1,8 +1,8 @@
 #AMASC MAIN
 
-DATA_PATH <- "/pstore/scratch/u/ouyangt/data/amasc/data"
-OUTPUT_PATH <- "/pstore/scratch/u/ouyangt/data/amasc/"
-threshold_protein <- 7 #7 only
+DATA_PATH <- "./data"
+OUTPUT_PATH <- "./data/amasc/"
+threshold_protein <- 7 
 threshold_cluster <- 0.40
 pg_neighbors <- 50
 fs_iteration <- 10
