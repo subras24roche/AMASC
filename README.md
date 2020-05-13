@@ -1,6 +1,6 @@
 # AMASC
 
-AMASC (automated marker analysis for single-cell RNA-seq) is a workflow for identifying a gene sets that can be applied in cell-type annotation for single-cell RNA-seq data.  
+AMASC (Automated Marker Analysis for Single-Cell RNA-seq) is a workflow for identifying a gene sets that can be applied in cell-type annotation for single-cell RNA-seq data.  
 
 # Prerequisites
 
