@@ -1,7 +1,7 @@
 #AMASC MAIN
 
 DATA_PATH <- "./data"
-OUTPUT_PATH <- "./output/"
+OUTPUT_PATH <- "./output"
 threshold_protein <- 7 
 threshold_cluster <- 0.40
 pg_neighbors <- 50
